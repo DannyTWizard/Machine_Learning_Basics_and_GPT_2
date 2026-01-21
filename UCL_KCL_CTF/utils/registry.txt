@@ -1,0 +1,120 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+  ProductName    REG_SZ    Windows 11 Pro
+  CurrentBuild   REG_SZ    22631
+
+HKEY_LOCAL_MACHINE\SOFTWARE\SystemSync
+  InstallPath    REG_SZ    C:\ProgramData\SystemSync
+  CacheMode      REG_DWORD 0x1
+  SyncLabel      REG_BINARY 72 70 75 62
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App0
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App1
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App2
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App3
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App4
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App5
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App6
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App7
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App8
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App9
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App10
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App11
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App12
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App13
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App14
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App15
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App16
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App17
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App18
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App19
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App20
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App21
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App22
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App23
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App24
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App25
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App26
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Vendor\App27
+  Enabled        REG_DWORD 0x1
+  Mode           REG_SZ    normal

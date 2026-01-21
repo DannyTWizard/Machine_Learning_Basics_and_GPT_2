@@ -1,0 +1,3484 @@
+[
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:45.982",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.236.127.79",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:01.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-ChildItem C:\\Users\\User\\Documents | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:43.433",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:54.628",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9488.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:34.968",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:27.050",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.228.39.171",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:41.833",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5579.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:15.031",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:30.678",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.221.193.242",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:09.230",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.100.225.239",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:54.718",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:36:10.101",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4371.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:16.841",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:57.605",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7050.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:59.480",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.200.86.21",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:18.465",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7127.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:50.469",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.109.73.90",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:37.911",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:52.872",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:43.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -ExecutionPolicy Bypass -File C:\\Scripts\\backup.ps1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:57.605",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:43.641",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:53.042",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4070.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:22.016",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:46.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:06.741",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:46.394",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.254.152.178",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:23.711",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.214.142.89",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:45.956",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.79.0.210",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:33.796",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2012.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:15.078",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:54.414",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.480",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:40:50.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"TeamsCacheCleanup\" /tr \"cmd.exe /c echo ok\" /sc daily /f"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:53.690",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:08.990",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:00.583",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:33.959",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:19.953",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:41:40.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"SystemSync\" /xml \"C:\\ProgramData\\SystemSync\\SystemSync.xml\" /f"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:52.351",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.161.42.188",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.833",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:18.118",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:02.298",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.173.26.187",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:40.778",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:01.281",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:03.314",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.102.162.98",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:18.867",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:44.369",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:56.138",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.102.237.93",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:33.602",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:13.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:51.840",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:36.892",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.189.194.158",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:48.323",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:35.754",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:09.747",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:32.117",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:02.544",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:53.042",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:27.311",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.208.227.220",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:25.473",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:02.298",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:22.564",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.13.232.111",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:59.880",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.126.48.30",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:51.946",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:21.935",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.167.228.88",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:59.324",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:34.004",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.232.30.110",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:02.500",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:59.695",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:44.642",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:16.613",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9610.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:24.844",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.160.167.21",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:59.039",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.210.128.223",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:41:00.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"ChromeUpdater\" /tr \"cmd.exe /c echo ok\" /sc daily /f"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:00.843",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8082.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:18.347",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4686.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:23.425",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:08.804",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5429.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:30.552",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:31.937",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:16.467",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:17.496",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:15.882",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:52.836",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2302.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:03.847",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5038.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:18.896",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:46.238",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:42.139",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.101.104.5",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:23.907",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:03.430",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:41.531",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:26.828",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:22.544",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.102.151.166",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:26.725",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:44.467",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:44.323",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1378.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:59.833",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.182.214.227",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:17.933",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:05.986",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:25.837",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:02.310",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:17.668",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.20.86.238",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:20.946",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:09.209",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9147.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:24.601",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:36.703",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.22.239.15",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:01.397",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:39.202",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.118.16.116",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:17.289",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:05.100",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.147.138.125",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:44.957",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7902.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:24.987",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:16.216",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:40.493",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5294.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:43.433",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.246.105.168",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:02.773",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:43:02.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command \"$syncId = 42; $null=$syncId; exit 0\""
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:47.264",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.24.102.14",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:02.789",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:31.758",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.149.193.27",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:31.306",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5281.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:02.440",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.64.88.112",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:46.939",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.158.242.182",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:37.990",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:54.628",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:09.044",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:06.237",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.61.11.91",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:35:20.568",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7779.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:22.241",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7616.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.930",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:46.570",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5890.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:09.772",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:02.500",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.141.82.129",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:27.311",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:30.678",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:41.833",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:12.528",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:29.651",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:31.194",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:15.844",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:30.552",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.197.117.151",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:34.275",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.99.45.196",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:15.818",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:19.247",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:38.099",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:42.415",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:24.198",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:09.209",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:05.100",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:58.427",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:32.689",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:00.059",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.245.241.12",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:08.759",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.85.3.31",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:50.693",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:07.492",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.183.84.32",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.116",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:31.982",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7442.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:08.467",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6486.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:18.390",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:01.128",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:54.802",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.188.244.253",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:58.218",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:52.514",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.16.191.234",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:17.284",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:38.708",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:26.561",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:16.985",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9514.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:55.085",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:00.601",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:21.792",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:20.037",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:44.813",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:40.493",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:25.307",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.109.207.127",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:31.982",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:57.695",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:00.489",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:21.553",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:52.749",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.163.27.134",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:15.883",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:02.363",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:23.597",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:47.264",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:15.410",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.130.184.166",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:59.833",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7725.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:24.283",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:43.143",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:11.985",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:00.059",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6780.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:33.928",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:48.088",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:08.753",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.15.111.78",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:17.933",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.157.120.192",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:42.195",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.12.122.129",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:46.607",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9701.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:39.144",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:52.450",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:40:55.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"WindowsTelemetrySync\" /tr \"cmd.exe /c echo ok\" /sc daily /f"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:04.350",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:26.212",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:10.513",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.170.249.149",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:14.957",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:33.682",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.22.78.210",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:32.629",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:29.127",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:02.021",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:20.350",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:36.892",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:17.668",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:00.489",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4307.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:19.120",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:04.732",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:22.544",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp3205.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:48.576",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:21.112",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:26.828",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.255.107.105",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:34.897",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6789.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:36.696",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.158.53.86",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:32.845",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:49.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command \"$x=1; $y=2; $null=$x+$y;\""
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:15.634",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp3805.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:27.981",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.148.29.185",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:34.004",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:14.364",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:16.841",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.101.231.69",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:33.778",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:02.263",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.63.34.34",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:39.144",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.190.165.236",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:31.675",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:22.184",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.30.224.167",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:06.237",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:13.115",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:19.316",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.193.91.237",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:37.401",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5135.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:00.000",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:24.844",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:54.706",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:01.549",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:40.226",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:16.985",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:35.932",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:40:40.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"AdobeUpdate\" /tr \"cmd.exe /c echo ok\" /sc daily /f"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:40.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-ChildItem C:\\Users\\User\\Documents | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:59.050",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:44.323",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:15.634",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:23.907",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7059.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:31.306",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:24.299",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.184.142.246",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:44.266",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:38.423",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:00.477",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:14.343",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:24.576",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:04.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Process | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:04.006",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:58.567",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.100.196.120",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:44.134",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:25.940",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:21.556",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:30.658",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2793.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:58.205",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.255.26.228",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:33.635",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:14.009",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:10.463",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:10.990",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:02.021",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.6.163.64",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:45.353",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:40.548",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:02.808",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:18.867",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.198.154.157",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:05.951",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:00.781",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5873.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:59.068",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:11.599",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:53.958",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.15.14.48",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:21.232",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:40.899",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:35.252",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:23.849",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:10.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-ChildItem C:\\Users\\User\\Documents | Out-Null"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:09.772",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.154.171.215",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:21.553",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1012.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:53.970",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:58.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Process | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:04.315",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:08.753",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:20.062",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:28.277",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.142.21.193",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:06.410",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:36:22.409",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6933.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:00.843",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.225.152.194",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:18.708",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:23.849",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8544.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:59.116",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp9087.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:52.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command \"$x=1; $y=2; $null=$x+$y;\""
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:32.613",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:40.539",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.239.196.225",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.852",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:27.915",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:35.754",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.2.223.69",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:21.085",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:08.238",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:17.383",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:26.561",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.59.72.9",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:33.445",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.240.51.148",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:15.208",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:21.179",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:00.105",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:39.653",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:15.410",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:36.796",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1386.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:34.292",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:43.635",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:32.117",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.190.251.68",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:50.469",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:59.526",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.150.94.245",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:33.796",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:19.316",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:08.665",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.17.41.217",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:25.473",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp3401.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:35.949",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.168.25.57",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:02.263",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:39.311",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.216.14.187",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:21.252",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7180.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:27.050",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:41.456",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:15.315",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:44.259",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:49.531",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:48.490",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:16.162",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.63.49.157",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:52.554",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:39.451",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:24.838",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:15.321",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:24.031",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:17.372",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:15.664",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:22.982",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:13.541",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:18.118",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.180.34.49",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:40.890",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5851.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:24.838",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2227.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:43.785",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:22.277",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:44.957",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.195.245.84",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:26.864",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:01.549",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8845.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:39.816",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:46.939",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:06.479",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:03.998",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7925.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:22.564",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:26.886",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:37.509",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:09.642",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8504.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:17.668",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1354.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:01.209",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:18.383",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.177.126.112",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:22.418",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:56.879",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:26.864",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8553.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:03.314",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:33.018",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:38:55.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Process | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:14.554",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:54.802",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:19.881",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:19.304",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:06.867",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:02.440",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:50.971",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:31.937",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.213.211.219",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:48.490",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7082.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:01.565",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:24.145",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:28.886",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:31.649",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6240.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:18.896",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4423.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:41.906",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:36.696",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:00.601",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.249.216.120",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:28.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:38.220",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.112.170.118",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:10.626",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:36.868",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:36:01.663",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.154.134.65",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:39.202",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:31.848",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:14.081",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:17.284",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.11.28.132",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:22.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:04.575",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:14.081",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5247.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:31.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -ExecutionPolicy Bypass -File C:\\Scripts\\backup.ps1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:31.758",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:48.600",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:44.957",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:32.396",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6269.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:56.470",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:35.949",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7315.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:40:45.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "CommandLine": "schtasks /create /tn \"OneDriveStandaloneUpdate\" /tr \"cmd.exe /c echo ok\" /sc daily /f"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:36:49.070",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.105.185.169",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:01.565",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7372.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:49.070",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:52.749",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2128.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:20.610",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:34.872",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:24.198",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.175.62.71",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:04.732",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp4793.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:22.273",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:34:02.440",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1605.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:15.208",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.113.211.17",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:31.194",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.77.162.91",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:28.709",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:05.445",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:35.031",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:43.540",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:56.470",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.195.212.69",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:30.335",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2074.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:22.054",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:38.220",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:18.226",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp5732.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:26.886",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.65.152.55",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:40.778",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.5.13.119",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:16.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:07.492",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:28.250",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:25.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Process | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:22.568",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:19.077",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:34.004",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2199.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:19.316",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6437.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:30.335",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:28.818",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:53.958",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:04.493",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.223.27.98",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:09.230",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:16.167",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6855.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:18.708",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.230.222.186",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:54.414",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.157.34.185",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:39.202",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2322.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:54.258",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.18.253.137",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:10.163",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7553.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:54.718",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8111.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:29.704",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.151.61.255",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:19.601",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:39.653",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8974.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:28.766",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.147.248.58",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:49.781",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:14.081",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.108.156.58",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:43:00.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command \"$syncId = 42; Write-Output 'SystemSync session 42 initialized' | Out-Null; exit 0\""
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:36.796",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:41:41.000",
+    "Image": "C:\\Windows\\System32\\schtasks.exe",
+    "TargetFilename": "C:\\ProgramData\\SystemSync\\SystemSync.xml"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:35:56.879",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp3078.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:18.383",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:36.220",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:43.540",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1899.tmp"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:44.467",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp2764.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:54.077",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:32:29.127",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1511.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:00.843",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:10.626",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.93.201.94",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:23.401",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:15.568",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:49.049",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:52.836",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:36.014",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6347.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:31.817",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.82.179.200",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:35.949",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:34.275",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:06.566",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:58.227",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.226.209.101",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:35:02.808",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.51.146.141",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:40.890",
+    "Image": "C:\\Windows\\System32\\notepad.exe",
+    "CommandLine": "notepad.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:48.784",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:42:20.000",
+    "Image": "C:\\Windows\\System32\\reg.exe",
+    "CommandLine": "reg add \"HKLM\\SOFTWARE\\SystemSync\" /v SyncLabel /t REG_BINARY /d 72707562 /f"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:33:58.205",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp3858.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:45.694",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:10.024",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:08.007",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:59.880",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp7933.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:43.457",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:31:21.179",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp1224.tmp"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:43.270",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:25.575",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.1.89.85",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:25.307",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:10.513",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:57.467",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:46.133",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:52.351",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:08.467",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:40.539",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:41.456",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.71.77.82",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:48.323",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.2.77.58",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:37.990",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.150.0.28",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:54.718",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.122.242.210",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:19.509",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:06.867",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.223.46.87",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:36.868",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.128.47.97",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:52.872",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.17.167.182",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:46.607",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:10.990",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.1.13.82",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:43.635",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.181.227.108",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:23.711",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:55.143",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:18.465",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:58.427",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.138.208.8",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:05.381",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:50.233",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:05.399",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:54.045",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:33:05.333",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.30.68.146",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:42.195",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:22.241",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:28.886",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.20.255.230",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:05.986",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.26.121.147",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:22.544",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:33.445",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:59.039",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:22.184",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:25.575",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:05.398",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:13.293",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:35:56.561",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:52.589",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:21.395",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:28.888",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:48.088",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.168.245.24",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:07.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command \"$x=1; $y=2; $null=$x+$y;\""
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.880",
+    "Image": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe",
+    "CommandLine": "OneDrive.exe /background"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:18.663",
+    "Image": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "CommandLine": "\"chrome.exe\" https://www.google.com"
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:58.218",
+    "Image": "C:\\Windows\\explorer.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp6323.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:19.028",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.102.116.146",
+    "DestinationPort": 443
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:39:19.000",
+    "Image": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "CommandLine": "powershell -NoProfile -Command Get-Service | Out-Null"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:37.169",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:36:01.663",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:36:14.343",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.15.237.183",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:10.163",
+    "Image": "C:\\Users\\User\\AppData\\Local\\Microsoft\\Teams\\current\\Teams.exe",
+    "CommandLine": "Teams.exe"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:30.898",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.45.9.238",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:08.665",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:23.849",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.69.24.225",
+    "DestinationPort": 80
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:42.415",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.203.179.130",
+    "DestinationPort": 8080
+  },
+  {
+    "EventID": 11,
+    "UtcTime": "2026-01-19 19:30:56.778",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "TargetFilename": "C:\\Users\\User\\AppData\\Local\\Temp\\tmp8970.tmp"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:30:32.358",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.59.122.193",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:34:32.396",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.216.153.168",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:31:18.347",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "CommandLine": "svchost.exe -k netsvcs"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:32:58.127",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.199.128.114",
+    "DestinationPort": 53
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:33:58.205",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:45.391",
+    "Image": "C:\\Windows\\System32\\SearchApp.exe",
+    "CommandLine": "SearchApp.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:36.703",
+    "Image": "C:\\Windows\\System32\\WmiPrvSE.exe",
+    "CommandLine": "WmiPrvSE.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:32:56.138",
+    "Image": "C:\\Windows\\System32\\cmd.exe",
+    "CommandLine": "cmd.exe /c dir"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:36:28.250",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.88.29.50",
+    "DestinationPort": 123
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:34:16.613",
+    "Image": "C:\\Windows\\explorer.exe",
+    "CommandLine": "explorer.exe"
+  },
+  {
+    "EventID": 1,
+    "UtcTime": "2026-01-19 19:30:59.068",
+    "Image": "C:\\Windows\\System32\\conhost.exe",
+    "CommandLine": "conhost.exe 0xffffffff -ForceV1"
+  },
+  {
+    "EventID": 3,
+    "UtcTime": "2026-01-19 19:31:08.804",
+    "Image": "C:\\Windows\\System32\\svchost.exe",
+    "DestinationIp": "13.152.6.250",
+    "DestinationPort": 53
+  }
+]
